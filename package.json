@@ -1,0 +1,27 @@
+{
+  "name": "importador-ann",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubens Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "command-line-args": "^2.1.4",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "httpreq": "^0.4.16",
+    "md5": "^2.0.0",
+    "moment": "^2.11.1",
+    "mongoose": "^4.3.5",
+    "prompt": "^0.2.14",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "xml2js": "^0.4.15"
+  }
+}
